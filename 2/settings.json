@@ -19,6 +19,7 @@
   "explorer.compactFolders": false,
   "explorer.autoReveal": false,
   "workbench.editor.enablePreview": false,
+  "files.autoGuessEncoding": true,
   "task.quickOpen.history": 0,
   "workbench.commandPalette.history": 0,
   "files.trimTrailingWhitespace": true,
