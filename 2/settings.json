@@ -1,0 +1,70 @@
+{
+  // Python
+  "python.pythonPath": "C:\\Users\\bagus\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+  "python.dataScience.jupyterServerURI": "local",
+  "python.dataScience.sendSelectionToInteractiveWindow": false,
+  // Terminal
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "terminal.integrated.fontFamily": "Anonymous Pro",
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.lineHeight": 1,
+  "terminal.integrated.letterSpacing": 0.7,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.explorerKind": "external",
+  // Editor
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "Anonymous Pro",
+  "explorer.compactFolders": false,
+  "explorer.autoReveal": false,
+  "task.quickOpen.history": 0,
+  "workbench.commandPalette.history": 0,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "editor.fontSize": 15,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.lineHeight": 0,
+  "editor.highlightActiveIndentGuide": false,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "material-icon-theme.folders.theme": "specific",
+  "material-icon-theme.folders.color": "#42a5f5",
+  // Other
+  "emmet.showAbbreviationSuggestions": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "files.autoSave": "onFocusChange",
+  "editor.minimap.enabled": false,
+  "editor.scrollBeyondLastLine": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.suggestSelection": "first",
+  // Color Scheme
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#00000040",
+    "editor.lineHighlightBackground": "#00000040",
+    "editor.selectionHighlightBackground": "#00000000",
+    "editor.selectionHighlightBorder": "#00000000",
+    "activityBar.activeBorder": "#00000000",
+    "editorIndentGuide.activeBackground": "#00000000",
+    "scrollbarSlider.hoverBackground": "#00000000",
+    "scrollbarSlider.activeBackground": "#00000040",
+    "scrollbarSlider.background": "#00000000",
+    "gitDecoration.untrackedResourceForeground": "#e2d418",
+    "gitDecoration.addedResourceForeground": "#e2d418",
+  },
+  // Formatter
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": null,
+  "[javascript]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+}
