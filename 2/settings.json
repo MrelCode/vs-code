@@ -18,7 +18,7 @@
   "editor.fontFamily": "Anonymous Pro",
   "explorer.compactFolders": false,
   "explorer.autoReveal": false,
-  "editor.rename.enablePreview": false,
+  "workbench.editor.enablePreview": false,
   "task.quickOpen.history": 0,
   "workbench.commandPalette.history": 0,
   "files.trimTrailingWhitespace": true,
